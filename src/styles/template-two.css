@@ -1,0 +1,10 @@
+/* Template One */
+.name_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: #6b9080;
+    height: 150px;
+};

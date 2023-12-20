@@ -1,0 +1,24 @@
+/* Template One */
+.name_div {
+  width: fit-content;
+  text-wrap: nowrap;
+}
+.cv_heading {
+  display: flex;
+  justify-content: space-between;
+}
+.education_section p,
+.experience_body p {
+  margin: 0;
+}
+.education_body,
+.experience_body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.education_group,
+.experience_group {
+  display: flex;
+  gap: 30px;
+}
